@@ -17,7 +17,7 @@ This project demonstrates how to send emails using **NodeMailer** in a Node.js e
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/hasindulakshan/node-mailer
     ```
 
 2. Navigate to the project directory:
