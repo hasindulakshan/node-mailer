@@ -18,7 +18,7 @@ const mailOptions = {
         name: "Hasindu Lakshan",
         address: process.env.USER
     }, // sender address
-    to: ["nagollahl@gmail.com"], // list of receivers
+    to: ["YourEmail@gmail.com"], // list of receivers
     subject: "send email using nodemailer", // Subject line
     text: "Hello world?", // plain text body
     html: "<b>Hello world?</b>", // html body
